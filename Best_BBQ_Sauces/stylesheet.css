@@ -1,0 +1,47 @@
+body{
+	background-color: #E6DED2;
+}
+h1 {
+  color: white;
+  background-color: #73868c;
+  font-size: 40px;
+  height: 30px;
+  padding: 15px;
+  border-style:solid;
+  border-color:#6f906f;
+}
+p {
+font-size: 20px;
+  }
+.spic{
+	border-style:solid;
+	border-color:#6f906f;
+}
+#cname{
+text-align:center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
